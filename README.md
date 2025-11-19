@@ -47,4 +47,8 @@ The main purpose of this project is to practice:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-weather-app.git
+git clone https://github.com/roksanadilshad/weather-app.git
+
+### 🌐 Live Link
+- Live Demo:
+- GitHub Repository: https://github.com/roksanadilshad/weather-app.git
