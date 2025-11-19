@@ -50,5 +50,5 @@ The main purpose of this project is to practice:
 git clone https://github.com/roksanadilshad/weather-app.git
 
 ### 🌐 Live Link
-- Live Demo:
+- Live Demo: https://roksanadilshad.github.io/weather-app/
 - GitHub Repository: https://github.com/roksanadilshad/weather-app.git
